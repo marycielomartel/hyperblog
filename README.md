@@ -1,2 +1,2 @@
 # hyperblog
-a increible blog for the course of platzi
+an increible blog for the course of platzi
